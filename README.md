@@ -12,7 +12,11 @@ I enjoy building practical software projects, solving programming problems, and 
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_PROFILE">
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/shubham-kumar-402101337/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -28,13 +32,16 @@ I enjoy building practical software projects, solving programming problems, and 
 <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 </a>
 
-<a href="YOUR_NAUKRI_PROFILE">
+</p>
+
+<a href="https://www.naukri.com/mnjuser/profile">
 <img src="https://img.shields.io/badge/Naukri-1E88E5?style=for-the-badge&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/_rajput_shubham_455/">
+<a href="https://www.instagram.com/_rajput_shubham_455/?__pwa=1">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
 
 </p>
 
