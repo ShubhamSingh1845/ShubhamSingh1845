@@ -8,7 +8,7 @@ I enjoy building practical software projects, solving programming problems, and 
 
 ---
 
-## 🌐 Connect With Me
+
 
 <p align="left">
 
