@@ -186,22 +186,15 @@ A simple calculator application for performing basic mathematical operations.
 - 🥇 **1st Position – Code Golf Competition**, Chandigarh University
 - 💻 **Hackathon Participant**, Chandigarh University
 - 📜 **Crash Course on Python – Google**
-- 📜 **HTML5, CSS3 & JavaScript – Infosys Springboard**
+- 📜 **HTML5, CSS3, ANGULAR & JavaScript – Infosys Springboard**
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ShubhamSingh1845&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSingh1845&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamSingh1845&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSingh1845&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -209,19 +202,16 @@ A simple calculator application for performing basic mathematical operations.
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=ShubhamSingh1845&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=ShubhamSingh1845&theme=tokyonight&hide_border=true"/>
 </p>
+
 ---
 
 # 📈 GitHub Activity
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamSingh1845&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamSingh1845&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
-
----
 
 # 💡 Current Focus
 
