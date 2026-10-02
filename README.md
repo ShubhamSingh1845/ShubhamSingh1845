@@ -209,11 +209,8 @@ A simple calculator application for performing basic mathematical operations.
 # 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com/?user=ShubhamSingh1845&theme=tokyonight&hide_border=true"/>
-
 </p>
-
 ---
 
 # 📈 GitHub Activity
