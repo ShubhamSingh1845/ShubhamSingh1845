@@ -104,8 +104,8 @@ I enjoy building practical software projects, solving programming problems, and 
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-2F80ED?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/OOP-6C5CE7?style=for-the-badge)
 ![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge)
+![Computer Networks](https://img.shields.io/badge/Computer%20Networks-00A896?style=for-the-badge)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FF9800?style=for-the-badge)
-
 
 
 
