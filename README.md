@@ -159,7 +159,13 @@ A simple calculator application for performing basic mathematical operations.
 **Technologies:** HTML • CSS • JavaScript
 
 ---
+# 🚀 My Projects
 
+- 🌦️ [Weather Pattern Analysis and Prediction System](https://github.com/ShubhamSingh1845/weather-pattern-analysis)
+
+---
+
+⭐ Check out my repositories to see my latest projects!
 # 🎓 Education
 
 ### Bachelor of Computer Applications (BCA)
@@ -190,11 +196,12 @@ A simple calculator application for performing basic mathematical operations.
 
 ---
 
+
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamSingh1845&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSingh1845&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamSingh1845&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSingh1845&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180" alt="Top Languages" />
 </p>
 
 ---
@@ -202,7 +209,7 @@ A simple calculator application for performing basic mathematical operations.
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ShubhamSingh1845&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=ShubhamSingh1845&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -210,8 +217,11 @@ A simple calculator application for performing basic mathematical operations.
 # 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamSingh1845&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamSingh1845&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
+
+---
+
 
 # 💡 Current Focus
 
