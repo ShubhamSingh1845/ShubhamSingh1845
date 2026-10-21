@@ -110,12 +110,11 @@ I enjoy building practical software projects, solving programming problems, and 
 
 
 ---
-
 # 🚀 Featured Projects
 
 ## 🛍️ Myntra Clone Website
 
-A responsive e-commerce website inspired by Myntra with product browsing and shopping functionality.
+A responsive e-commerce website inspired by Myntra, featuring product browsing and shopping functionality.
 
 **Technologies:** HTML • CSS • JavaScript
 
@@ -123,14 +122,14 @@ A responsive e-commerce website inspired by Myntra with product browsing and sho
 
 ## 🏥 Patient Management System
 
-A C-based application for managing patient records.
+A C-based application designed to manage patient records efficiently.
 
 ### Features
-- Add patient
-- Search patient
-- Update patient
-- Delete patient
-- Display patient records
+- Add patient records
+- Search for patients
+- Update patient information
+- Delete patient records
+- Display all patient records
 
 **Technology:** C
 
@@ -154,14 +153,25 @@ A C++ project that tokenizes simple source code and identifies basic syntax-rela
 
 ## 🧮 Calculator
 
-A simple calculator application for performing basic mathematical operations.
+A simple calculator application that performs basic mathematical operations.
 
 **Technologies:** HTML • CSS • JavaScript
 
 ---
-# 🚀 My Projects
 
-- 🌦️ [Weather Pattern Analysis and Prediction System](https://github.com/ShubhamSingh1845/weather-pattern-analysis)
+## 🌦️ Weather Pattern Analysis and Prediction System
+
+A data mining project that analyzes historical weather data, visualizes weather patterns, and predicts weather trends using machine learning.
+
+**Technologies:** Python • Streamlit • Pandas • NumPy • Scikit-learn • Plotly
+
+**[🔗 View Project on GitHub](https://github.com/ShubhamSingh1845/weather-pattern-analysis)
+
+---
+
+# ⭐ Explore My Repositories
+
+Check out my [GitHub repositories](https://github.com/ShubhamSingh1845?tab=repositories) to explore my projects, programming practice, and development journey.
 
 ---
 
