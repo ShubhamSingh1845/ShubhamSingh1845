@@ -1,246 +1,302 @@
 # 👋 Hi, I'm Shubham Kumar
 
-### 🎓 BCA Student | 💻 Aspiring Software Developer
+### 🎓 BCA Student | 💻 Aspiring Software Developer | 🧠 Problem Solver
 
-I am a Bachelor of Computer Applications (BCA) student at **Chandigarh University** with a strong foundation in programming, databases, data structures, and web technologies.
+I am a Bachelor of Computer Applications (BCA) student at **Chandigarh University**, passionate about software development, programming, databases, web technologies, and problem-solving.
 
-I enjoy building practical software projects, solving programming problems, and continuously improving my development skills.
+I enjoy building practical projects, solving coding challenges, learning new technologies, and continuously improving my technical skills.
 
 ---
-
-
-
-<p align="left">
 
 ## 🌐 Connect With Me
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/shubham-kumar-402101337/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ShubhamSingh1845">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:shubhamrajput19852@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/shubhamrajput192">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
-
-</p>
-
-<a href="https://www.naukri.com/mnjuser/profile">
-<img src="https://img.shields.io/badge/Naukri-1E88E5?style=for-the-badge&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/_rajput_shubham_455/?__pwa=1">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-
+  <a href="https://www.linkedin.com/in/shubham-kumar-402101337/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/ShubhamSingh1845">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:shubhamrajput19852@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/shubhamrajput192">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/shubhamraj317i">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
+  <a href="https://www.naukri.com/mnjuser/profile">
+    <img src="https://img.shields.io/badge/Naukri-1E88E5?style=for-the-badge&logoColor=white" alt="Naukri"/>
+  </a>
+  <a href="https://www.instagram.com/_rajput_shubham_455/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 BCA Student at **Chandigarh University**
-- 💻 Aspiring Software Developer
-- 🐍 Learning and working with **Python**
-- ☕ Programming in **Java**
-- ⚙️ Working with **C and C++**
-- 🌐 Interested in **Web Development**
-- 🗄️ Working with **MySQL and MongoDB**
-- 🧠 Practicing **Data Structures & Algorithms**
-- 📊 Exploring **Data Mining and Data Analysis**
-- 🚀 Building practical academic and personal projects
-- 📚 Continuously learning new technologies
+- 🎓 Pursuing a Bachelor of Computer Applications at Chandigarh University.
+- 💻 Aspiring Software Developer.
+- 🐍 Learning and developing applications using Python.
+- ☕ Practicing Java programming and object-oriented concepts.
+- ⚙️ Working with C and C++.
+- 🌐 Interested in frontend and full-stack web development.
+- 🗄️ Learning database management with MySQL and MongoDB.
+- 🧠 Practicing Data Structures and Algorithms.
+- 📊 Exploring Data Mining, Data Analysis, and Machine Learning fundamentals.
+- 🚀 Building academic and personal software projects.
+- 🌱 Continuously learning and improving my development skills.
 
 ---
-# 💻 Tech Stack
 
-### 👨‍💻 Programming Languages
+## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
 
 ### 🌐 Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+</p>
 
-### 🗄️ Database & Data
+### 🗄️ Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+</p>
 
 ### 📊 Python & Data Analysis
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+</p>
 
-### 🛠️ Development Tools
+### 🧰 Development Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
+</p>
 
 ### 🧠 Core Computer Science
 
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-2F80ED?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-6C5CE7?style=for-the-badge)
-![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge)
-![Computer Networks](https://img.shields.io/badge/Computer%20Networks-00A896?style=for-the-badge)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FF9800?style=for-the-badge)
-
-
-
----
-# 🚀 Featured Projects
-
-## 🛍️ Myntra Clone Website
-
-A responsive e-commerce website inspired by Myntra, featuring product browsing and shopping functionality.
-
-**Technologies:** HTML • CSS • JavaScript
+<p align="left">
+  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-2F80ED?style=for-the-badge" alt="DSA"/>
+  <img src="https://img.shields.io/badge/Object--Oriented_Programming-6C5CE7?style=for-the-badge" alt="OOP"/>
+  <img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge" alt="DBMS"/>
+  <img src="https://img.shields.io/badge/Computer_Networks-00A896?style=for-the-badge" alt="Computer Networks"/>
+  <img src="https://img.shields.io/badge/Problem_Solving-FF9800?style=for-the-badge" alt="Problem Solving"/>
+</p>
 
 ---
 
-## 🏥 Patient Management System
+## 🏆 Coding Profiles & Achievements
 
-A C-based application designed to manage patient records efficiently.
+### 📗 GeeksforGeeks
 
-### Features
-- Add patient records
-- Search for patients
-- Update patient information
-- Delete patient records
-- Display all patient records
+<p align="left">
+  <a href="https://www.geeksforgeeks.org/profile/shubhamraj317i">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-View_My_Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile"/>
+  </a>
+</p>
 
-**Technology:** C
+Practice areas: Data Structures and Algorithms, coding challenges, and problem-solving.
 
----
+### 🟢 HackerRank
 
-## 📚 Library Management System
+<p align="left">
+  <a href="https://www.hackerrank.com/profile/shubhamrajput192">
+    <img src="https://img.shields.io/badge/HackerRank-View_My_Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Profile"/>
+  </a>
+</p>
 
-A Python-based library management system designed to manage books, student records, and issue/return operations.
+Practice areas: Python, SQL, programming fundamentals, and algorithms.
 
-**Technology:** Python
+### 🥇 Achievements & Certifications
 
----
-
-## 🧠 Mini Compiler / Syntax Checker
-
-A C++ project that tokenizes simple source code and identifies basic syntax-related errors.
-
-**Technology:** C++
-
----
-
-## 🧮 Calculator
-
-A simple calculator application that performs basic mathematical operations.
-
-**Technologies:** HTML • CSS • JavaScript
+- 🏆 **1st Position — Code Golf Competition**, Chandigarh University (2025).
+- 💻 **Hackathon Participant**, Chandigarh University (2026).
+- 📜 **Crash Course on Python — Google** (2025).
+- 📜 **HTML5, CSS3, JavaScript & Interview Training Bundle — Infosys Springboard** (2025).
 
 ---
 
-## 🌦️ Weather Pattern Analysis and Prediction System
+## 🚀 Featured Projects
+
+### 🌦️ 1. Weather Pattern Analysis and Prediction System
 
 A data mining project that analyzes historical weather data, visualizes weather patterns, and predicts weather trends using machine learning.
 
 **Technologies:** Python • Streamlit • Pandas • NumPy • Scikit-learn • Plotly
 
-**[🔗 View Project on GitHub](https://github.com/ShubhamSingh1845/weather-pattern-analysis)
+**Key features**
+- Historical weather data analysis.
+- Weather data preprocessing.
+- Interactive data visualizations.
+- Machine learning-based weather prediction.
+- Weather data retrieval using the Open-Meteo API.
+
+🔗 **[View Project on GitHub](https://github.com/ShubhamSingh1845/weather-pattern-analysis)**
 
 ---
 
-# ⭐ Explore My Repositories
+### 🛍️ 2. Myntra Clone Website
 
-Check out my [GitHub repositories](https://github.com/ShubhamSingh1845?tab=repositories) to explore my projects, programming practice, and development journey.
+A responsive e-commerce website inspired by Myntra, featuring product browsing and shopping functionality.
+
+**Technologies:** HTML • CSS • JavaScript
+
+**Key features**
+- Product browsing interface.
+- Responsive website layout.
+- Shopping-related user interactions.
+
+🔗 [Browse My Repositories](https://github.com/ShubhamSingh1845?tab=repositories)
 
 ---
 
-⭐ Check out my repositories to see my latest projects!
-# 🎓 Education
+### 🏥 3. Patient Management System
+
+A C-based application for managing patient records through basic record-management operations.
+
+**Technology:** C
+
+**Key features**
+- Add patient records.
+- Search for patients.
+- Update patient information.
+- Delete patient records.
+- Display patient records.
+
+---
+
+### 📚 4. Library Management System
+
+A Python-based application designed to manage books, student records, and book issue/return operations.
+
+**Technology:** Python
+
+**Key features**
+- Book record management.
+- Student record management.
+- Issue and return operations.
+
+---
+
+### 🧠 5. Mini Compiler / Syntax Checker
+
+A C++ project that tokenizes simple source code and identifies basic syntax-related errors.
+
+**Technology:** C++
+
+**Key features**
+- Basic tokenization.
+- Source-code analysis.
+- Simple syntax-error identification.
+
+---
+
+### 🧮 6. Calculator
+
+A simple calculator application that performs basic mathematical operations.
+
+**Technologies:** HTML • CSS • JavaScript
+
+**Key features**
+- Basic arithmetic operations.
+- Interactive interface.
+- Simple and responsive design.
+
+---
+
+## 🎓 Education
 
 ### Bachelor of Computer Applications (BCA)
 
 **Chandigarh University**  
-2024 – 2027
+2024–2027 (Expected)
 
 ### Relevant Coursework
 
-- Python
-- Java
-- C / C++
-- Data Structures & Algorithms
+- Python Programming
+- Java Programming
+- C and C++
+- Data Structures and Algorithms
 - Database Management Systems
-- SQL
+- SQL and Database Design
 - Web Technologies
 - Data Mining
 - Statistics
 
 ---
 
-# 🏆 Achievements & Certifications
-
-- 🥇 **1st Position – Code Golf Competition**, Chandigarh University
-- 💻 **Hackathon Participant**, Chandigarh University
-- 📜 **Crash Course on Python – Google**
-- 📜 **HTML5, CSS3, ANGULAR & JavaScript – Infosys Springboard**
-
----
-
-
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamSingh1845&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSingh1845&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamSingh1845&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180" alt="GitHub Statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSingh1845&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180" alt="Most Used Languages"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ShubhamSingh1845&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ShubhamSingh1845&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
 
-# 📈 GitHub Activity
+## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamSingh1845&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamSingh1845&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
 
+## 🎯 Current Focus
 
-# 💡 Current Focus
+- 📘 Improving Data Structures and Algorithms skills.
+- 💻 Practicing coding problems on GeeksforGeeks and HackerRank.
+- 🚀 Developing practical projects using Python, Java, and web technologies.
+- 🗄️ Strengthening SQL, MySQL, MongoDB, and DBMS concepts.
+- 📊 Exploring data mining, data analysis, and machine learning.
+- 🌱 Learning new technologies and exploring open-source contributions.
 
-```text
-Python
-Java
-Data Structures & Algorithms
-SQL / MySQL
-MongoDB
-Web Development
-Data Mining
-Software Development
+---
+
+## 📬 Let's Connect
+
+I'm always interested in learning, collaborating on projects, and connecting with fellow developers.
+
+<p align="center">
+  <b>✨ Learn • Code • Build • Improve ✨</b>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my GitHub profile!
+</p>
