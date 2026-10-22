@@ -142,17 +142,31 @@ Practice areas: Python, SQL, programming fundamentals, and algorithms.
 - 📜 **Crash Course on Python — Google** (2025).
 - 📜 **HTML5, CSS3, JavaScript & Interview Training Bundle — Infosys Springboard** (2025).
 
----
-
 ## 🚀 Featured Projects
 
-### 🌦️ 1. Weather Pattern Analysis and Prediction System
+### 🏫 1. College ERP Management System
+A web-based College Enterprise Resource Planning (ERP) system designed to manage student and faculty information, academic records, and college administration through a centralized platform.
 
+**Technologies:** React.js • JavaScript • Node.js • Express.js • MongoDB • Mongosh • HTML • CSS
+
+**Key Features**
+- Separate student and faculty databases.
+- Student and faculty record management.
+- Add, view, update, and delete records (CRUD operations).
+- React-based interactive user interface.
+- Backend APIs using Node.js and Express.js.
+- MongoDB database integration for storing and retrieving records.
+
+🔗 **[View Project on GitHub](https://github.com/ShubhamSingh1845?tab=repositories)**
+
+---
+
+### 🌦️ 2. Weather Pattern Analysis and Prediction System
 A data mining project that analyzes historical weather data, visualizes weather patterns, and predicts weather trends using machine learning.
 
-**Technologies:** Python • Streamlit • Pandas • NumPy • Scikit-learn • Plotly
+**Technologies:** Python • Streamlit • Pandas • NumPy • Scikit-learn • Plotly • Open-Meteo API
 
-**Key features**
+**Key Features**
 - Historical weather data analysis.
 - Weather data preprocessing.
 - Interactive data visualizations.
@@ -163,28 +177,27 @@ A data mining project that analyzes historical weather data, visualizes weather 
 
 ---
 
-### 🛍️ 2. Myntra Clone Website
-
+### 🛍️ 3. Myntra Clone Website
 A responsive e-commerce website inspired by Myntra, featuring product browsing and shopping functionality.
 
-**Technologies:** HTML • CSS • JavaScript
+**Technologies:** HTML5 • CSS3 • JavaScript • Local Storage
 
-**Key features**
+**Key Features**
 - Product browsing interface.
 - Responsive website layout.
-- Shopping-related user interactions.
+- Shopping bag and cart functionality.
+- Interactive shopping experience.
 
-🔗 [Browse My Repositories](https://github.com/ShubhamSingh1845?tab=repositories)
+🔗 **[Browse My Repositories](https://github.com/ShubhamSingh1845?tab=repositories)**
 
 ---
 
-### 🏥 3. Patient Management System
-
+### 🏥 4. Patient Management System
 A C-based application for managing patient records through basic record-management operations.
 
 **Technology:** C
 
-**Key features**
+**Key Features**
 - Add patient records.
 - Search for patients.
 - Update patient information.
@@ -193,54 +206,59 @@ A C-based application for managing patient records through basic record-manageme
 
 ---
 
-### 📚 4. Library Management System
-
+### 📚 5. Library Management System
 A Python-based application designed to manage books, student records, and book issue/return operations.
 
 **Technology:** Python
 
-**Key features**
+**Key Features**
 - Book record management.
 - Student record management.
-- Issue and return operations.
+- Book issue and return operations.
 
 ---
 
-### 🧠 5. Mini Compiler / Syntax Checker
-
+### 🧠 6. Mini Compiler / Syntax Checker
 A C++ project that tokenizes simple source code and identifies basic syntax-related errors.
 
 **Technology:** C++
 
-**Key features**
+**Key Features**
 - Basic tokenization.
 - Source-code analysis.
 - Simple syntax-error identification.
 
 ---
 
-### 🧮 6. Calculator
-
+### 🧮 7. Calculator
 A simple calculator application that performs basic mathematical operations.
 
-**Technologies:** HTML • CSS • JavaScript
+**Technologies:** HTML5 • CSS3 • JavaScript
 
-**Key features**
+**Key Features**
 - Basic arithmetic operations.
 - Interactive interface.
 - Simple and responsive design.
 
 ---
 
+⭐ Explore my repositories to see more of my projects and development work!
+
 ## 🎓 Education
 
 ### Bachelor of Computer Applications (BCA)
-
 **Chandigarh University**  
 2024–2027 (Expected)
 
-### Relevant Coursework
+### Senior Secondary (Non-Medical)
+**Bihar School Examination Board (BSEB)**  
+2023 | **66%**
 
+### Matriculation
+**Bihar School Examination Board (BSEB)**  
+2021 | **60%**
+
+### 📚 Relevant Coursework
 - Python Programming
 - Java Programming
 - C and C++
@@ -250,8 +268,7 @@ A simple calculator application that performs basic mathematical operations.
 - Web Technologies
 - Data Mining
 - Statistics
-
----
+ ---
 
 ## 📊 GitHub Statistics
 
