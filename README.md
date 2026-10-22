@@ -42,7 +42,7 @@ I enjoy building practical projects, solving coding challenges, learning new tec
 - 💻 Aspiring Software Developer.
 - 🐍 Learning and developing applications using Python.
 - ☕ Practicing Java programming and object-oriented concepts.
-- ⚙️ Working with C and C++.
+- ⚙️ Working with C, C++, Java and Python
 - 🌐 Interested in frontend and full-stack web development.
 - 🗄️ Learning database management with MySQL and MongoDB.
 - 🧠 Practicing Data Structures and Algorithms.
